@@ -1,0 +1,10 @@
+n, noOfGeneration,
+2 0
+n, noOfGeneration,
+4 0
+n, noOfGeneration,
+6 0
+n, noOfGeneration,
+8 0
+n, noOfGeneration,
+10 29
